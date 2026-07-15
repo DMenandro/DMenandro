@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou o Daniel 👋</h1>
+<h1 align="center">Olá, eu sou o Daniel Menandro </h1>
 
 <p align="center">
   Estudante de Engenharia Mecânica Aeronáutica na UNIFEI, migrando para Ciência de Dados & Business Intelligence.
