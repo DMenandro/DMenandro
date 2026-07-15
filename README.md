@@ -1,51 +1,61 @@
-# 🌍 World Energy Consumption — Análise Exploratória de Dados
+<h1 align="center">Olá, eu sou o Daniel 👋</h1>
 
-Projeto final da disciplina de Análise Exploratória de Dados (AED) — UNIFEI.
+<p align="center">
+  Estudante de Engenharia Mecânica Aeronáutica na UNIFEI, migrando para Ciência de Dados & Business Intelligence.
+</p>
 
-## 📖 Sobre o projeto
-
-Análise exploratória completa sobre o dataset **World Energy Consumption**, da Our World in Data, investigando como o poder econômico dos países (PIB per capita) se relaciona com a adoção de energias renováveis ao redor do mundo.
-
-## 🎯 Objetivo
-
-Entender, através de análise univariada, bivariada e multivariada, se países mais ricos avançam mais rápido na transição energética — e como esse padrão varia entre continentes.
-
-## 🗂️ Dataset
-
-- **Fonte:** [Our World in Data](https://ourworldindata.org/) — World Energy Consumption
-- **Escopo:** indicadores de consumo de energia e PIB per capita por país/continente
-
-## 🔍 Metodologia
-
-- Análise univariada (distribuições, tendências centrais)
-- Análise bivariada (PIB per capita × adoção de renováveis)
-- Análise multivariada, com segmentação por continente
-- Enriquecimento dos dados com `pycountry_convert` (mapeamento país → continente)
-- Refinamento visual dos gráficos com `adjustText` para evitar sobreposição de rótulos
-
-## 🛠️ Ferramentas
-
-`Python` · `Google Colab` · `pandas` · `matplotlib` / `seaborn` · `pycountry_convert` · `adjustText`
-
-## 📊 Entregáveis
-
-- Notebook completo de EDA (Google Colab)
-- Documento técnico de verificação
-- Relatório executivo de duas páginas, em português, voltado a público não técnico
-
-## 🚀 Como executar
-
-1. Abra o notebook `.ipynb` no Google Colab ou Jupyter
-2. Instale as dependências:
-   ```bash
-   pip install pandas matplotlib seaborn pycountry_convert adjustText
-   ```
-3. Execute as células em ordem — a primeira seção carrega e trata o dataset
-
-## 📌 Principais achados
-
-> Preencha aqui com a conclusão central do seu relatório executivo (ex: relação entre PIB per capita e adoção de renováveis por continente).
+<p align="center">
+  <a href="https://www.linkedin.com/in/SEU-LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:SEU-EMAIL@exemplo.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+</p>
 
 ---
 
-Projeto acadêmico desenvolvido para a disciplina de AED — UNIFEI.
+### 🚀 Sobre mim
+
+- 🎓 Graduando em **Engenharia Mecânica Aeronáutica** pela **UNIFEI**
+- 📊 Em transição de carreira para **Ciência de Dados** e **Business Intelligence**
+- ✈️ Integrante da equipe **Uirá Aerodesign** — 🥇 1º lugar no Torneio de Acesso da SAE Brasil
+- 📣 Time de marketing da **Atlética UNIFEI**
+- 💼 Ex-estagiário de BI na **Prefeitura de Itajubá**
+- 🔭 Trabalhando com Python, SQL, Power BI e Machine Learning em projetos pessoais
+
+---
+
+### 🛠️ Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white" />
+</p>
+
+---
+
+### 📌 Projetos em destaque
+
+| Projeto | Descrição |
+|---|---|
+| **[Olist Data Pipeline (CDA002)](https://github.com/DMenandro/SEU-REPO)** | Pipeline de ciência de dados sobre o dataset de e-commerce brasileiro Olist |
+| **[Computer Vision (CDA)](https://github.com/DMenandro/SEU-REPO)** | Filtros de imagem + Random Forest aplicado ao Fashion MNIST |
+| **[World Energy Consumption EDA (AED)](https://github.com/DMenandro/SEU-REPO)** | Análise exploratória de dados de consumo mundial de energia |
+| **[FIFA World Cup Analytics DB](https://github.com/DMenandro/SEU-REPO)** | Banco PostgreSQL + ETL + SQL avançado + dashboard em Power BI/Streamlit |
+
+> Ajuste os links acima para o nome real de cada repositório.
+
+---
+
+### 📈 Estatísticas
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DMenandro&show_icons=true&theme=dark&hide_border=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DMenandro&theme=dark&hide_border=true" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DMenandro&layout=compact&theme=dark&hide_border=true" height="165"/>
+</p>
