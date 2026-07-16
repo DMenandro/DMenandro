@@ -5,8 +5,8 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/SEU-LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:SEU-EMAIL@exemplo.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/daniel-menandro-29b087211/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:dmenandro1.2@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
@@ -15,8 +15,7 @@
 
 - 🎓 Graduando em **Engenharia Mecânica Aeronáutica** pela **UNIFEI**
 - 📊 Em transição de carreira para **Ciência de Dados** e **Business Intelligence**
-- ✈️ Integrante da equipe **Uirá Aerodesign** — 🥇 1º lugar no Torneio de Acesso da SAE Brasil
-- 📣 Time de marketing da **Atlética UNIFEI**
+- ✈️ Ex-Integrante da equipe **Uirá Aerodesign** — 🥇 1º lugar no Torneio de Acesso da SAE Brasil
 - 💼 Ex-estagiário de BI na **Prefeitura de Itajubá**
 - 🔭 Trabalhando com Python, SQL, Power BI e Machine Learning em projetos pessoais
 
