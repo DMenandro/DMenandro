@@ -1,12 +1,12 @@
-<h1 align="center">Olá, eu sou o Daniel Menandro </h1>
+<h1 align="center">Olá, eu sou o Daniel 👋</h1>
 
 <p align="center">
   Estudante de Engenharia Mecânica Aeronáutica na UNIFEI, migrando para Ciência de Dados & Business Intelligence.
 </p>
 
 <p align="center">
-  <a href="www.linkedin.com/in/daniel-menandro-29b087211"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:dmenandro1.2@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/SEU-LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:SEU-EMAIL@exemplo.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
@@ -40,12 +40,12 @@
 
 | Projeto | Descrição |
 |---|---|
-| **[Olist Data Pipeline (CDA002)](https://github.com/DMenandro/SEU-REPO)** | Pipeline de ciência de dados sobre o dataset de e-commerce brasileiro Olist |
-| **[Computer Vision (CDA)](https://github.com/DMenandro/SEU-REPO)** | Filtros de imagem + Random Forest aplicado ao Fashion MNIST |
-| **[World Energy Consumption EDA (AED)](https://github.com/DMenandro/SEU-REPO)** | Análise exploratória de dados de consumo mundial de energia |
-| **[FIFA World Cup Analytics DB](https://github.com/DMenandro/SEU-REPO)** | Banco PostgreSQL + ETL + SQL avançado + dashboard em Power BI/Streamlit |
+| **[World Energy EDA](https://github.com/DMenandro/world-energy-eda)** | Análise exploratória sobre consumo mundial de energia — PIB per capita × adoção de renováveis |
+| **[Olist Data Pipeline](https://github.com/DMenandro/olist-pipeline)** | Pipeline de ciência de dados sobre o dataset de e-commerce brasileiro Olist |
+| **[Computer Vision — Fashion MNIST](https://github.com/DMenandro/computer-vision-fashion-mnist)** | Filtros de imagem + Random Forest aplicado ao Fashion MNIST |
+| **[Google Calendar API Integration](https://github.com/DMenandro/gcal-python-integration)** | Integração pessoal em Python com a Google Calendar API |
 
-> Ajuste os links acima para o nome real de cada repositório.
+> ⚠️ Esses nomes de repositório são sugestões — depois de criar cada repo no GitHub, confira se o slug bate com o nome real e ajuste o link se precisar.
 
 ---
 
