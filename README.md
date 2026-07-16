@@ -44,9 +44,7 @@
 | **[Computer Vision — Fashion MNIST](https://github.com/DMenandro/computer-vision-fashion-mnist)** | Filtros de imagem + Random Forest aplicado ao Fashion MNIST |
 | **[Google Calendar API Integration](https://github.com/DMenandro/gcal-python-integration)** | Integração pessoal em Python com a Google Calendar API |
 
-> ⚠️ Esses nomes de repositório são sugestões — depois de criar cada repo no GitHub, confira se o slug bate com o nome real e ajuste o link se precisar.
 
----
 
 ### 📈 Estatísticas
 
