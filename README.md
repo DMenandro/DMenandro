@@ -39,7 +39,7 @@
 
 | Projeto | Descrição |
 |---|---|
-| **[World Energy EDA](https://github.com/DMenandro/AED_World_Energy.git)** | Análise exploratória sobre consumo mundial de energia — PIB per capita × adoção de renováveis |
+| **[World Energy EDA](https://github.com/DMenandro/AED_World_Energy)** | Análise exploratória sobre consumo mundial de energia — PIB per capita × adoção de renováveis |
 | **[Olist Data Pipeline](https://github.com/DMenandro/olist-pipeline)** | Pipeline de ciência de dados sobre o dataset de e-commerce brasileiro Olist |
 | **[Computer Vision — Fashion MNIST](https://github.com/DMenandro/computer-vision-fashion-mnist)** | Filtros de imagem + Random Forest aplicado ao Fashion MNIST |
 | **[Google Calendar API Integration](https://github.com/DMenandro/gcal-python-integration)** | Integração pessoal em Python com a Google Calendar API |
